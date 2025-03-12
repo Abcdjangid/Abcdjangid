@@ -18,12 +18,6 @@
 
 ---
 
-
-## 🔥 What I'm Working On  
-🚀 **[Personal Finance Dashboard](#)** – Track income & expenses visually
-🌍 **[Interactive Portfolio](#)** – Showcasing my best projects dynamically  
----
-
 ## 📬 Let's Connect!  
 👨‍💻 **LinkedIn**: [Chitvan Jangid](https://chitvanjangid.com/)  
 📧 **Email**:    jangidchitvan@gmail.com  
