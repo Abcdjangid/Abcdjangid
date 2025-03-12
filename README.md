@@ -19,8 +19,9 @@
 ---
 
 ## 📬 Let's Connect!  
-👨‍💻 **LinkedIn**: [Chitvan Jangid](https://chitvanjangid.com/)  
-📧 **Email**:    jangidchitvan@gmail.com  
+👨‍💻 **Portfolio:** [chitvanjangid.com](https://chitvanjangid.com/)  
+💼 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/chitvan-jangid/)  
+📧 **Email:** [jangidchitvan@gmail.com](mailto:jangidchitvan@gmail.com)  
 
 ---
 
